@@ -11,5 +11,5 @@ B.Tech Major Project - Combined 3 biometrics for high security.
  Single biometric can fail - 3 combined = 99% secure. Used in Aadhaar, Airports.
 
  ## Developed by
- Yellaboina Vijayalaxmi - CSE 2025, Sri Indu Institute of Engineering and Technology.
+ Yellaboina Vijayalaxmi - CSE 2025, Sri Indu I
 
